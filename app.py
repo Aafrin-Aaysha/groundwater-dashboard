@@ -131,7 +131,8 @@ def set_plotly_clean(fig, height=340):
 # --------------------------
 BASE = Path(__file__).resolve().parent
 DATA_PATH = BASE / "data" / "Dynamic_2017_2_0.csv" 
-MODEL_PATH = BASE / "groundwater_stage_model.pkl"
+MODEL_PATH = BASE / "models" / "groundwater_stage_model.pkl"
+
 
 # --------------------------
 # LOAD
