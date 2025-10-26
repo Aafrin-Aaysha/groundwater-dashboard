@@ -1,5 +1,7 @@
 # 🌍 Groundwater Stage Prediction Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groundwater-dashboard-model.streamlit.app/)
+
 A sleek, interactive **Streamlit dashboard** for analyzing and predicting groundwater extraction stages — Safe, Semi-Critical, Critical, or Over-Exploited.
 
 ---
